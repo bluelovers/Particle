@@ -213,13 +213,16 @@
 /* start| Player console */
 
     .player-console #watch7-headline{
-        max-width: calc(100% - 30% - 80px);
+        max-width: calc(100% - 270px);
     }
     #watch-headline-title-form .yt-uix-form-input-container{
         width: calc(100% - 100px);
     }
     #watch-headline-title-form .yt-uix-form-input-text{
         width: calc(100% - 20px);
+    }
+    .watch-title-container{
+        width: auto;
     }
 
     #watch-header{
